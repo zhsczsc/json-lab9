@@ -10,7 +10,7 @@
         "age" : 79,
         "secretIdentity" : "Dean",
         "powers" : [
-          "Magic Wand",
+          "Magic Wand"
        
         ]
       },
@@ -19,7 +19,7 @@
         "age" : 39,
         "secretIdentity" : "Youngest Dean",
         "powers" : [
-          "Black Magic Defense",
+          "Black Magic Defense"
        
       },
       {
@@ -27,7 +27,7 @@
         "age" : 1000000,
         "secretIdentity" : "Unknown",
         "powers" : [
-          "Super Enemy",
+          "Super Enemy"
      
       }
     ]
