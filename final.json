@@ -1,0 +1,21 @@
+{
+    "ProductName": "Stuffed Toy",
+    "active": true,
+    "members": [
+      {
+        "name": "Little Black ",
+        "price": "$120"
+        
+      },
+      {
+        "name": "Brown Green",
+        "price": "160"
+        
+      },
+      {
+          "name": "Colorful",
+          "price": "135"
+          
+      }
+        ]
+      }
